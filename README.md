@@ -1,88 +1,67 @@
-# Victor Giroud 👋
+# Salut, moi c'est Victor Giroud 👋
 
 🎓 **Étudiant ingénieur en 5ème année à l'EPITA (Majeure MTI - Multimédia et Technologies de l'Information)**  
-🚀 **Développeur Full-Stack & passionné d'architecture logicielle / IA**  
-🎯 À la recherche d'un **stage de fin d'études de 5 à 6 mois** à partir de **février 2027**  
+🚀 **Développeur Full-Stack & Passionné par l'Ingénierie Logicielle, les Microservices et l'IA**  
+📍 Basé à Paris (10e)  
 
-📍 Basé à Paris, France  
-📫 Contact : [victorgiroud4@gmail.com](mailto:victorgiroud4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/victor-giroud-paris)
-
----
-
-## 🛠️ Stack Technique & Compétences
-
-### Langages & Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-- **Frameworks & Runtimes :** Quarkus, Spring Boot, Node.js, .NET
-- **Bases de données :** PostgreSQL, MariaDB
-- **Architectures :** Microservices, APIs REST, Systèmes distribués
-
-### Frontend & Mobile
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-- Dévelopement Web (PWA), Applications Cross-Platform, Intégration responsive
-
-### DevOps, IA & Outils
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-
-- **Intelligence Artificielle :** Agents IA de vision par ordinateur, Fine-tuning de modèles, Reconnaissance d'images
-- **Méthodologies :** Agile / Scrum, CI/CD, Git Workflow
+> 🎯 **Recherche active :** Stage de fin d'études de **5 à 6 mois** en développement logiciel / full-stack à partir de **février 2027** (Paris & Île-de-France).
 
 ---
 
-## 🌟 Projets Phares
+### 🌐 Retrouvez-moi en ligne
 
-### 🌿 [Volontari'app](https://github.com/Volontariapp)
-> **Application mobile & réseau social dédié à l'engagement écologique et social.**  
-*Projet collaboratif réalisé en équipe de 3 personnes (architecture multi-dépôts).*
-
-- **Stack :** React Native, Expo, Node.js, PostgreSQL
-- **Périmètre & Réalisations :**
-  - Conception de l'écosystème modulaire sous l'organisation GitHub [@Volontariapp](https://github.com/Volontariapp).
-  - Gestion des flux d'événements, interactions utilisateurs et synchronisation de données.
-  - Déploiement de microservices backend interconnectés.
+- 🌍 **Portfolio & Site Web :** [victor-giroud.fr](https://victor-giroud.fr)
+- 💼 **LinkedIn :** [linkedin.com/in/victor-giroud-paris](https://www.linkedin.com/in/victor-giroud-paris)
+- 📧 **Email :** [victorgiroud4@gmail.com](mailto:victorgiroud4@gmail.com)
 
 ---
 
-### 🏫 Outil Web de Gestion des Absences — Rectorat de Créteil
-> **Application web critique visant à réduire drastiquement les délais de traitement des remplacements.**
+### 🛠️ Stack & Compétences Techniques
 
-- Contexte à haute exigence avec contraintes techniques imposées pour un organisme d'État.
-- Optimisation des processus métier et modélisation des flux de données RH.
-
----
-
-### 🏢 PWA de Conformité des Bâtiments — AER
-> **Application web progressive avec intégration d'agents d'IA de vision par ordinateur.**
-
-- Architecture Full-Stack en **Vue.js** et **Java**.
-- Intégration d'un modèle d'IA fine-tuné pour la reconnaissance d'images et l'automatisation des vérifications de conformité.
+| Domaine | Technologies & Outils |
+| :--- | :--- |
+| **Frontend & Mobile** | Vue.js (Vue 3 / Vite), React Native, Expo, AngularJS, PWA, HTML5, CSS3 |
+| **Backend & APIs** | Node.js, Java (Quarkus, Spring Boot), .NET, PHP |
+| **Langages** | TypeScript, JavaScript, Java, Python, C++, C, C# |
+| **Bases de données** | PostgreSQL, MariaDB |
+| **DevOps & Cloud** | Linux, Docker, Nginx, CloudPanel, GitHub Actions, CI/CD, rsync/SSH |
+| **IA & Spécialités** | Agents IA, Reconnaissance d'images, Fine-tuning de modèles, Microservices |
 
 ---
 
-## 🌍 Parcours & Expériences
+### 🚀 Projets Marquants
 
-- **2026 - Présent :** EPITA Paris — Majeure MTI (Multimédia et Technologies de l'Information)
-- **2024 :** Semestre international à l'**UTEC Lima, Pérou** 🇵🇪
-- **2022 - 2024 :** Classe préparatoire intégrée — EPITA Lyon
-- 🗣️ **Langues :** Français (Maternel), Anglais (Courant — TOEIC 910), Espagnol (Intermédiaire)
+#### 📱 [Volontari'app](https://github.com/Volontariapp)
+*Réseau social citoyen et écologique (Projet en équipe de 3)*
+- **Objectif :** Faciliter la création et l'interaction autour d'événements écologiques et d'initiatives citoyennes.
+- **Architecture :** Écosystème complet découpé en micro-services / multi-repos.
+- **Stack :** React Native, Expo, Node.js, PostgreSQL.
+
+#### 🏛️ Outil de Gestion des Absences — Rectorat de Créteil
+*Projet de fin d'études en entreprise (06/2026 – 12/2026)*
+- **Objectif :** Conception d'une application web pour accélérer et fiabiliser le traitement des remplacements sur l'ensemble de l'académie de Créteil.
+- **Enjeux :** Gestion de flux à fort volume et strict respect des contraintes d'architecture du secteur public.
+
+#### 💻 [victor-giroud.fr](https://victor-giroud.fr) — Portfolio & Infrastructure
+*Projet personnel (2026)*
+- Application SPA développée avec **Vue 3** et **Vite**.
+- Déploiement automatisé sur **VPS (CloudPanel / Nginx)** via **GitHub Actions** et pipeline SSH/rsync à chaque `git push`.
 
 ---
 
-## ⚡ En dehors du code
+### 💼 Expériences Clés
 
-🎧 **DJ & Ingénierie Sonore :** Auto-entrepreneur depuis 2023 (mix, sonorisation, gestion événementielle).  
-📸 **Autres passions :** Photographie / Drone, Escalade, Musculation & Jeux vidéo.
+- **Stage Ingénieur Développeur (09/2025 – 01/2026)** — *AER (Automatisme-Électricité-Régulation)*
+  - Conception et développement Full-Stack d'une PWA de conformité réglementaire des bâtiments (Vue.js, Java).
+  - Intégration d'un agent IA de vision par ordinateur avec fine-tuning de modèles.
+- **Entrepreneur & DJ Événementiel (05/2023 – Actuel)**
+  - Gestion technique (sonorisation, éclairage) et relation client complète (devis, facturation, adaptabilité).
+
+---
+
+### 🌍 Parcours Académique & International
+
+- **2026 – 2027 :** Cycle Ingénieur EPITA Paris — Majeure MTI (Multimédia et Technologies de l'Information).
+- **2025 :** Certification TOEIC — **910 / 990** (Anglais professionnel courant / C1).
+- **2024 :** Semestre d'échange international à l'**UTEC** (Lima, Pérou) — Environnement bilingue (Espagnol / Anglais).
+- **2022 – 2024 :** Classes Préparatoires Intégrées — EPITA Lyon.
